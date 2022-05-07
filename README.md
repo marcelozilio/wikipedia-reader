@@ -4,7 +4,7 @@
 - H2 Database
 
 ## Prerequisites
-- Java (version 11)
+- Java (version 17)
 - Maven (version 3 or greater)
 
 ## Local development
@@ -16,5 +16,5 @@ mvn clean install
 
 ### Running application
 ```
-java -jar target/golden-raspberry-awards-api-0.0.1-SNAPSHOT.jar
+java -jar target/wikipedia-reader-0.0.1-SNAPSHOT.jar
 ```
